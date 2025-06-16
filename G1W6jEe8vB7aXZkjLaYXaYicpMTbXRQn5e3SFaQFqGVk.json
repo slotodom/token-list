@@ -1,0 +1,16 @@
+{
+  "name": "SLOTODOM",
+  "symbol": "SLOT",
+  "decimals": 9,
+  "mint": "G1W6jEe8vB7aXZkjLaYXaYicpMTbXRQn5e3SFaQFqGVk",
+  "tags": [
+    "utility-token",
+    "community"
+  ],
+  "extensions": {
+    "website": "https://slotodom.com",
+    "twitter": "https://x.com/slotodom",
+    "telegram": "https://t.me/slotodom777",
+    "description": "SLOTODOM is the rebirth of the original SLOT token, relaunched with full control and protection from bots. No more scams pump.fun only pure decentralization."
+  }
+}
